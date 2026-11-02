@@ -1,8 +1,5 @@
 # Day 1 — Introduction to Applied AI
 
-**Training:** Applied AI Training  
-**Day:** 1 
-
 ## 1. Objective
 
 The objective of this session was to understand the fundamentals of Artificial Intelligence, explore its importance in modern technology, and learn how AI can be applied to solve real-world problems.
